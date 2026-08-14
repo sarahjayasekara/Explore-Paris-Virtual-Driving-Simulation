@@ -1,7 +1,7 @@
 # 🗼 Explore Paris: A Virtual Driving Simulation
 
 ```html
-<img src="docs/buildings.png" alt="Top-down view of the city" width="100%">
+<img src="images/buildings.png" alt="Top-down view of the city" width="100%">
 ```
 
 A **3D Paris-inspired driving simulation** built with **C++ and OpenGL**, featuring an explorable city environment, a user-controlled vehicle, multiple camera perspectives, textured buildings, animated traffic lights, and a custom-modelled Eiffel Tower.
