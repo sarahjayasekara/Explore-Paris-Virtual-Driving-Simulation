@@ -137,6 +137,4 @@ The goal was to apply fundamental computer graphics concepts to an interactive 3
 
 ---
 
-## 📄 License
 
-This repository contains an academic/portfolio project. No open-source license is currently provided.
