@@ -126,7 +126,6 @@ The project was developed for Windows using **Visual Studio and OpenGL/GLUT**.
 4. Build the project.
 5. Run the application.
 
-> The original Visual Studio configuration may require local dependency paths to be adjusted before building on another machine.
 
 ---
 
