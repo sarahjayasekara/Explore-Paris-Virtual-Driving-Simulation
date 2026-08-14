@@ -36,41 +36,7 @@ The environment combines textured roads and buildings, vegetation, traffic light
 
 ---
 
-## 📸 Screenshots
 
-### Paris-Inspired Environment
-
-> Add your Eiffel Tower street-view screenshot here.
-
-```html
-<img src="docs/eiffel-tower.png" alt="Paris-inspired environment with Eiffel Tower" width="100%">
-```
-
-### Third-Person Driving
-
-> Add the screenshot showing the red car at the intersection here.
-
-```html
-<img src="docs/third-person.png" alt="Third-person driving view" width="100%">
-```
-
-### Top-Down Camera
-
-> Add your top-down screenshot here.
-
-```html
-<img src="docs/buildings.png" alt="Top-down view of the city" width="100%">
-```
-
----
-
-## 🎥 Demo
-
-A short gameplay demo showcasing the driving system, city environment, camera modes, and other graphical features can be added here.
-
-> **Demo video coming soon**
-
----
 
 ## ⌨️ Controls
 
